@@ -1,0 +1,16 @@
+{
+  "name": "gttst",
+  "version": "1.0.0",
+  "description": "google text to speach test",
+  "main": "tts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@google-cloud/text-to-speech": "^0.4.0",
+    "fs": "0.0.1-security",
+    "util": "^0.11.1"
+  }
+}
